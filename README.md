@@ -1,4 +1,4 @@
-### Hi there 👋, i'm João Marcos!
+### Howdy 👋 I'm João Marcos!
 ---
 
 Full-stack developer at <a href="www.inovamobil.com.br">Inovação computação móvel</a>
