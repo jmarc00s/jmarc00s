@@ -1,7 +1,7 @@
 ### Howdy 👋 I'm João Marcos!
 ---
 
-Full-stack developer at <a href="www.inovamobil.com.br">Inovação computação móvel</a>
+Full-stack developer at <a href="https://www.inovamobil.com.br">Inovação computação móvel</a>
 
 Front-end enthusiast
 
