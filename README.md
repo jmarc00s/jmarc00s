@@ -3,8 +3,6 @@
 
 Full-stack developer at <a href="https://www.inovamobil.com.br">Inovação computação móvel</a>
 
-Front-end enthusiast
-
 ### Current stack 
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
