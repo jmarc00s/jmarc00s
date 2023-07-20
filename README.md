@@ -1,7 +1,7 @@
 ### Howdy 👋 I'm João Marcos!
 ---
 
-Front-end Engineer at <a href="https://invillia.com">Invillia </a>
+Front-end Engineer at <a href="https://zbra.dev">ZBra </a>
 
 <!-- ### Current stack 
 <div>
